@@ -5,29 +5,14 @@
 # 📚 Efficient Reasoning in LLMs
 
 This repository tracks research papers related to **efficient reasoning in large language models (LLMs)**.
-Papers are organized by themes such as reinforcement learning (RL), supervised fine-tuning (SFT), prompt-based methods, routing, model merging, and more...
 
 ---
 
-## 🔹 Reinforcement Learning (RL)
-
-* **L1: Controlling how long a reasoning model thinks with reinforcement learning**
-  *Pranjal Aggarwal, Sean Welleck*, 2025.
-  [📄 arXiv:2503.04697](https://arxiv.org/abs/2503.04697)
+## 🔹 Letting Model Learn When to Think (Hybrid-Reasoning)
 
 * **AdaptThink: Reasoning models can learn when to think**
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*, 2025.
   [📄 arXiv:2505.13417](https://arxiv.org/abs/2505.13417)
-
----
-
-## 🔹 Supervised Fine-Tuning (SFT)
-
-*(coming soon)*
-
----
-
-## 🔹 SFT + RL
 
 * **ThinkLess: LLM learns when to think**
   *Gongfan Fang, Xiaotian Ma, Xinyu Wang*, 2025.
@@ -39,11 +24,19 @@ Papers are organized by themes such as reinforcement learning (RL), supervised f
 
 ---
 
-## 🔹 Prompt-based Methods
+## 🔹 Reducing Response Length
 
 * **Reasoning models can be effective without thinking**
   *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*, 2025.
   [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
+
+* **L1: Controlling how long a reasoning model thinks with reinforcement learning**
+  *Pranjal Aggarwal, Sean Welleck*, 2025.
+  [📄 arXiv:2503.04697](https://arxiv.org/abs/2503.04697)
+
+* **Unlocking efficient long-to-short LLM reasoning with model merging**
+  *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*, 2025.
+  [📄 arXiv:2503.20641](https://arxiv.org/abs/2503.20641)
 
 ---
 
@@ -55,13 +48,7 @@ Papers are organized by themes such as reinforcement learning (RL), supervised f
 
 ---
 
-## 🔹 Model Merging
 
-* **Unlocking efficient long-to-short LLM reasoning with model merging**
-  *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*, 2025.
-  [📄 arXiv:2503.20641](https://arxiv.org/abs/2503.20641)
-
----
 
 ## 🔹 Uncategorized
 

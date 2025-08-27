@@ -63,7 +63,7 @@ Papers are organized by themes such as reinforcement learning (RL), supervised f
 
 ---
 
-## 🔹 Uncategorized / Mixed Approaches
+## 🔹 Uncategorized
 
 * **VeriThinker: Learning to verify makes reasoning model efficient**
   *Zigeng Chen, Xinyin Ma, Gongfan Fang, Ruonan Yu, Xinchao Wang*, 2025.

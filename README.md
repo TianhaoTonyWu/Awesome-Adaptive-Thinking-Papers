@@ -8,7 +8,7 @@ This repository tracks research papers related to **efficient reasoning in large
 
 ---
 
-## 🔹 Letting Model Learn When to Think (Hybrid-Reasoning)
+## 🔹 Model Learns When to Think (Hybrid-Reasoning)
 
 * **AdaptThink: Reasoning models can learn when to think**  
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*  

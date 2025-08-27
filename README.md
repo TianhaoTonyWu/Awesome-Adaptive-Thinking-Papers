@@ -5,7 +5,7 @@
 # 📚 Efficient Reasoning in LLMs
 
 This repository tracks research papers related to **efficient reasoning in large language models (LLMs)**.
-Papers are organized by themes such as **reinforcement learning (RL), supervised fine-tuning (SFT), prompt-based methods, routing, model merging, and more...
+Papers are organized by themes such as reinforcement learning (RL), supervised fine-tuning (SFT), prompt-based methods, routing, model merging, and more...
 
 ---
 

@@ -19,7 +19,15 @@ Papers are organized by themes such as reinforcement learning (RL), supervised f
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*, 2025.
   [📄 arXiv:2505.13417](https://arxiv.org/abs/2505.13417)
 
-## 🔹 Large Hybrid-Reasoning Models (LHRM)
+---
+
+## 🔹 Supervised Fine-Tuning (SFT)
+
+*(coming soon)*
+
+---
+
+## 🔹 SFT + RL
 
 * **ThinkLess: LLM learns when to think**
   *Gongfan Fang, Xiaotian Ma, Xinyu Wang*, 2025.
@@ -28,12 +36,6 @@ Papers are organized by themes such as reinforcement learning (RL), supervised f
 * **Think only when you need with large hybrid-reasoning models**
   *Linyang Jiang, Xiaoxuan Wu, Shilin Huang, Qi Dong, Zhiqiang Chi, Li Dong, Xiaodong Zhang, Tian Lv, Lijuan Cui, Furu Wei*, 2025.
   [📄 arXiv:2505.14631](https://arxiv.org/abs/2505.14631)
-
----
-
-## 🔹 Supervised Fine-Tuning (SFT)
-
-*(coming soon)*
 
 ---
 

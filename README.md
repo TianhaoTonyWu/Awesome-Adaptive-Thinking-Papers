@@ -19,6 +19,8 @@ Papers are organized by themes such as reinforcement learning (RL), supervised f
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*, 2025.
   [📄 arXiv:2505.13417](https://arxiv.org/abs/2505.13417)
 
+## 🔹 Large Hybrid Reasoning Models (LHRM)
+
 * **ThinkLess: LLM learns when to think**
   *Gongfan Fang, Xiaotian Ma, Xinyu Wang*, 2025.
   [📄 arXiv:2505.13379](https://arxiv.org/abs/2505.13379)

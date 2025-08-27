@@ -76,6 +76,11 @@ This repository tracks research papers related to **efficient reasoning in large
   *Daman Arora, Andrea Zanette*, 2025.
   [📄 arXiv:2502.04463](https://arxiv.org/abs/2502.04463)
 
+* **Think when you need: Self-adaptive chain-of-thought learning**  
+  *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*, 2025.  
+  [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
+
+
 ---
 
 ## 🔹 How to Contribute

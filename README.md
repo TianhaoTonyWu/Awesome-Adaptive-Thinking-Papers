@@ -34,25 +34,27 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
 
+* **s1: Simple test-time scaling**   
+  *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
+  2025.  
+  [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
+
 * **L1: Controlling how long a reasoning model thinks with reinforcement learning**  
   *Pranjal Aggarwal, Sean Welleck*  
   2025.  
   [📄 arXiv:2503.04697](https://arxiv.org/abs/2503.04697)
-
-* **Unlocking efficient long-to-short LLM reasoning with model merging**  
-  *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*  
-  2025.  
-  [📄 arXiv:2503.20641](https://arxiv.org/abs/2503.20641)
 
 * **Think when you need: Self-adaptive chain-of-thought learning**  
   *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*  
   2025.  
   [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
 
-* **s1: Simple test-time scaling**   
-  *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
+* **Unlocking efficient long-to-short LLM reasoning with model merging**  
+  *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*  
   2025.  
-  [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
+  [📄 arXiv:2503.20641](https://arxiv.org/abs/2503.20641)
+
+
 
 ---
 

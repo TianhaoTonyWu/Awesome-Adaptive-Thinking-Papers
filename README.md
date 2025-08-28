@@ -27,7 +27,7 @@ This repository tracks research papers related to **efficient reasoning in large
 
 ---
 
-## 🔹 Reducing Response Length
+## 🔹 Reducing CoT Length
 
 * **Reasoning models can be effective without thinking**  
   *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  

@@ -44,6 +44,11 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2503.20641](https://arxiv.org/abs/2503.20641)
 
+* **Think when you need: Self-adaptive chain-of-thought learning**  
+  *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*  
+  2025.  
+  [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
+
 ---
 
 ## 🔹 Routing
@@ -87,10 +92,7 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2502.04463](https://arxiv.org/abs/2502.04463)
 
-* **Think when you need: Self-adaptive chain-of-thought learning**  
-  *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*  
-  2025.  
-  [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
+
 
 ---
 

@@ -97,6 +97,11 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
 
+* **C3ot: Generating shorter chain-of-thought without compromising effectiveness**    
+  *Yu Kang, Xianghui Sun, Liangyu Chen, and Wei Zou*  
+  2024.   
+  [📄 arXiv:2412.11664](https://arxiv.org/abs/2412.11664)  
+
 
 ---
 

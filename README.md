@@ -10,10 +10,14 @@ This repository tracks research papers related to **efficient reasoning in large
 
 ## 🔹 Model Learns When to Think (Hybrid-Reasoning)
 
+### RL
+
 * **AdaptThink: Reasoning models can learn when to think**  
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*  
   2025.  
   [📄 arXiv:2505.13417](https://arxiv.org/abs/2505.13417)
+
+### SFT + RL
 
 * **ThinkLess: LLM learns when to think**  
   *Gongfan Fang, Xiaotian Ma, Xinyu Wang*  
@@ -29,15 +33,7 @@ This repository tracks research papers related to **efficient reasoning in large
 
 ## 🔹 Adjusting CoT Length
 
-* **Reasoning models can be effective without thinking**  
-  *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  
-  2025.  
-  [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
-
-* **s1: Simple test-time scaling**   
-  *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
-  2025.  
-  [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
+### w/ RL
 
 * **L1: Controlling how long a reasoning model thinks with reinforcement learning**  
   *Pranjal Aggarwal, Sean Welleck*  
@@ -48,6 +44,18 @@ This repository tracks research papers related to **efficient reasoning in large
   *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*  
   2025.  
   [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
+
+### w/o RL
+
+* **Reasoning models can be effective without thinking**  
+  *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  
+  2025.  
+  [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
+
+* **s1: Simple test-time scaling**   
+  *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
+  2025.  
+  [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
 
 * **Unlocking efficient long-to-short LLM reasoning with model merging**  
   *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*  

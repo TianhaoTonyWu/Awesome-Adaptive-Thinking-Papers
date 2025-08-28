@@ -67,6 +67,15 @@ This repository tracks research papers related to **efficient reasoning in large
 
 ---
 
+## 🔹 Benchmarks
+
+* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
+  *Pranjal Aggarwal, Seunghyun Kim, Julien Lanchantin, Sean Welleck, Jason Weston, Ilya Kulikov, Shubham Saha*  
+  2025.  
+  [📄 arXiv:2508.13141](https://arxiv.org/abs/2508.13141)
+
+---
+
 ## 🔹 Uncategorized
 
 * **VeriThinker: Learning to verify makes reasoning model efficient**  
@@ -74,10 +83,7 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2505.17941](https://arxiv.org/abs/2505.17941)
 
-* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
-  *Pranjal Aggarwal, Seunghyun Kim, Julien Lanchantin, Sean Welleck, Jason Weston, Ilya Kulikov, Shubham Saha*  
-  2025.  
-  [📄 arXiv:2508.13141](https://arxiv.org/abs/2508.13141)
+
 
 * **Do NOT think that much for 2+3=? On the overthinking of O1-like LLMs**  
   *Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu*  

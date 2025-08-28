@@ -92,9 +92,10 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2502.04463](https://arxiv.org/abs/2502.04463)
 
-* **s1: Simple test-time scaling**
-  *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*
-  2025
+* **s1: Simple test-time scaling**   
+  *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
+  2025.  
+  [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
 
 
 ---

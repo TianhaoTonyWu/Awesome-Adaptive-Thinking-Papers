@@ -4,7 +4,7 @@
 
 # 📚 Efficient Reasoning in LLMs
 
-This repository tracks research papers related to **efficient reasoning in large language models (LLMs)**.
+This repository tracks research papers related to **efficient reasoning in large language models (LLMs)** which aim to mitigate **overthinking**.
 
 ---
 
@@ -36,6 +36,15 @@ This repository tracks research papers related to **efficient reasoning in large
 
 ---
 
+## 🔹 Manual Hybrid Reasoning
+
+* **Reasoning models can be effective without thinking**  
+  *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  
+  2025.  
+  [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
+  
+---
+
 ## 🔹 Adjusting CoT Length
 
 ### w/ RL
@@ -51,11 +60,6 @@ This repository tracks research papers related to **efficient reasoning in large
   [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
 
 ### w/o RL
-
-* **Reasoning models can be effective without thinking**  
-  *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  
-  2025.  
-  [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
 
 * **s1: Simple test-time scaling**   
   *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   

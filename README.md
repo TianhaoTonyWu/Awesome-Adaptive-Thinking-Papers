@@ -17,6 +17,11 @@ This repository tracks research papers related to **efficient reasoning in large
   2025.  
   [📄 arXiv:2505.13417](https://arxiv.org/abs/2505.13417)
 
+* **Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL**  
+  *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*  
+  2025.  
+  [📄 arXiv:2505.10832](https://arxiv.org/abs/2505.10832)
+
 ### SFT + RL
 
 * **ThinkLess: LLM learns when to think**  

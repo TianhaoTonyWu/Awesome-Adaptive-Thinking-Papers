@@ -4,7 +4,7 @@
 
 # 📚 Efficient Reasoning in LLMs
 
-This repository tracks research papers related to **efficient reasoning in large language models (LLMs)** which aim to mitigate **overthinking**.
+This repository curates research papers on efficient reasoning in large language models (LLMs), with a focus on methods that reduce overthinking and improve adaptive reasoning.
 
 ---
 

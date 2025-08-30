@@ -1,14 +1,14 @@
-# Awesome-Efficient-Reasoning-Papers
+# Awesome-Adaptive-Thinking-Papers
 
 ---
 
-# 📚 Efficient Reasoning in LLMs
+# 📚 Adaptive Thinking in LLMs
 
-This repository curates research papers on efficient reasoning in large language models (LLMs), with a focus on methods that reduce overthinking and improve adaptive reasoning.
+This repository curates research papers on adaptive thinking in large language models (LLMs).
 
 ---
 
-## 🔹 Model Learns When to Think (Hybrid-Reasoning)
+## 🔹 Model Learns When to Think
 
 ### RL
 
@@ -44,18 +44,23 @@ This repository curates research papers on efficient reasoning in large language
   
 ---
 
-## 🔹 Adjusting CoT Length
 
-### w/ RL
+## 🔹 Routing
+
+* **Arch-Router: Aligning LLM routing with human preferences**  
+  *Co Tran, Salman Paracha, Adil Hafeez, Shuguang Chen*  
+  2025.  
+  [📄 arXiv:2506.16655](https://arxiv.org/abs/2506.16655)
+
+---
+
+
+## 🔹 Long-to-Short CoT Baselines
 
 * **L1: Controlling how long a reasoning model thinks with reinforcement learning**  
   *Pranjal Aggarwal, Sean Welleck*  
   2025.  
   [📄 arXiv:2503.04697](https://arxiv.org/abs/2503.04697)
-
-
-
-### w/o RL
 
 * **s1: Simple test-time scaling**   
   *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
@@ -76,14 +81,7 @@ This repository curates research papers on efficient reasoning in large language
 
 ---
 
-## 🔹 Routing
 
-* **Arch-Router: Aligning LLM routing with human preferences**  
-  *Co Tran, Salman Paracha, Adil Hafeez, Shuguang Chen*  
-  2025.  
-  [📄 arXiv:2506.16655](https://arxiv.org/abs/2506.16655)
-
----
 
 ## 🔹 Benchmarks
 

@@ -52,10 +52,25 @@ This repository curates research papers on adaptive thinking in large language m
   2025.  
   [📄 arXiv:2506.16655](https://arxiv.org/abs/2506.16655)
 
+* **ThinkSwitcher: When to think hard, when to think fast**  
+  *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*  
+  2025.  
+  [📄 arXiv:2505.14183](https://arxiv.org/abs/2505.14183)
+
 ---
 
+## 🔹 Benchmarks
 
-## 🔹 Long-to-Short CoT Baselines
+* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
+  *Pranjal Aggarwal, Seunghyun Kim, Julien Lanchantin, Sean Welleck, Jason Weston, Ilya Kulikov, Shubham Saha*  
+  2025.  
+  [📄 arXiv:2508.13141](https://arxiv.org/abs/2508.13141)
+
+---
+
+## 🔹 Related Topics
+
+### Long-to-Short CoT
 
 * **L1: Controlling how long a reasoning model thinks with reinforcement learning**  
   *Pranjal Aggarwal, Sean Welleck*  
@@ -78,17 +93,6 @@ This repository curates research papers on adaptive thinking in large language m
   [📄 arXiv:2503.20641](https://arxiv.org/abs/2503.20641)
 
 
-
----
-
-
-
-## 🔹 Benchmarks
-
-* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
-  *Pranjal Aggarwal, Seunghyun Kim, Julien Lanchantin, Sean Welleck, Jason Weston, Ilya Kulikov, Shubham Saha*  
-  2025.  
-  [📄 arXiv:2508.13141](https://arxiv.org/abs/2508.13141)
 
 ---
 

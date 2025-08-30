@@ -22,6 +22,11 @@ This repository curates research papers on efficient reasoning in large language
   2025.  
   [📄 arXiv:2505.10832](https://arxiv.org/abs/2505.10832)
 
+* **Think when you need: Self-adaptive chain-of-thought learning**  
+  *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*  
+  2025.  
+  [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
+
 ### SFT + RL
 
 * **ThinkLess: LLM learns when to think**  
@@ -34,14 +39,8 @@ This repository curates research papers on efficient reasoning in large language
   2025.  
   [📄 arXiv:2505.14631](https://arxiv.org/abs/2505.14631)
 
----
 
-## 🔹 Manual Hybrid Reasoning
 
-* **Reasoning models can be effective without thinking**  
-  *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  
-  2025.  
-  [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
   
 ---
 
@@ -54,10 +53,7 @@ This repository curates research papers on efficient reasoning in large language
   2025.  
   [📄 arXiv:2503.04697](https://arxiv.org/abs/2503.04697)
 
-* **Think when you need: Self-adaptive chain-of-thought learning**  
-  *Jiaqi Yang, Kaixuan Lin, Xinyu Yu*  
-  2025.  
-  [📄 arXiv:2504.03234](https://arxiv.org/abs/2504.03234)
+
 
 ### w/o RL
 
@@ -65,6 +61,11 @@ This repository curates research papers on efficient reasoning in large language
   *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*   
   2025.  
   [📄 arXiv:2501.19393](https://arxiv.org/abs/2501.19393)
+
+* **Reasoning models can be effective without thinking**  
+  *Weizhi Ma, Jinhyuk He, Charles Snell, Thomas Griggs, Sewon Min, Matei Zaharia*  
+  2025.  
+  [📄 arXiv:2504.09858](https://arxiv.org/abs/2504.09858)
 
 * **Unlocking efficient long-to-short LLM reasoning with model merging**  
   *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*  

@@ -128,7 +128,12 @@ This repository curates research papers on adaptive thinking in large language m
 * **C3ot: Generating shorter chain-of-thought without compromising effectiveness**    
   *Yu Kang, Xianghui Sun, Liangyu Chen, and Wei Zou*  
   2024.   
-  [📄 arXiv:2412.11664](https://arxiv.org/abs/2412.11664)  
+  [📄 arXiv:2412.11664](https://arxiv.org/abs/2412.11664)
+
+* **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
+  *Yekun Zhu, Guang Chen, Chengjun Mao*  
+  2025.  
+  [📄 arXiv:2508.15507](https://arxiv.org/abs/2508.15507)
 
 
 ---

@@ -39,6 +39,11 @@ This repository curates research papers on adaptive thinking in large language m
   2025.  
   [📄 arXiv:2505.14631](https://arxiv.org/abs/2505.14631)
 
+* **R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**  
+  *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*  
+  2025.  
+  [📄 arXiv:2508.21113](https://arxiv.org/abs/2508.21113)
+
 
 
   

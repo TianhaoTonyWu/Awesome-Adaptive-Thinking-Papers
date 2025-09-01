@@ -2,7 +2,7 @@
 
 ---
 
-# 📚 Adaptive Thinking in LLMs
+# 📚 Paper List for Adaptive Thinking in LLMs
 
 This repository curates research papers on adaptive thinking in large language models (LLMs).
 

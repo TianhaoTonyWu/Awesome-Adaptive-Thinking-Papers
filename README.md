@@ -10,7 +10,7 @@ This repository curates research papers on adaptive thinking in large language m
 
 ## 🔹 Model Learns When to Think
 
-### RL
+### heuristic + RL
 
 * **AdaptThink: Reasoning models can learn when to think**  
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*  

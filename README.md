@@ -58,15 +58,17 @@ This repository curates research papers on adaptive thinking in large language m
 
 ## 🔹 Routing
 
-* **Arch-Router: Aligning LLM routing with human preferences**  
-  *Co Tran, Salman Paracha, Adil Hafeez, Shuguang Chen*  
-  2025.  
-  [📄 arXiv:2506.16655](https://arxiv.org/abs/2506.16655)
+
 
 * **ThinkSwitcher: When to think hard, when to think fast**  
   *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*  
   2025.  
   [📄 arXiv:2505.14183](https://arxiv.org/abs/2505.14183)
+
+* **Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models**  
+  *Peijie Liu, Fengli Xu, Yong Li*  
+  2025.  
+  [📄 arXiv:2506.06008](https://arxiv.org/abs/2506.06008)
 
 ---
 
@@ -114,7 +116,10 @@ This repository curates research papers on adaptive thinking in large language m
   2025.  
   [📄 arXiv:2505.17941](https://arxiv.org/abs/2505.17941)
 
-
+* **Arch-Router: Aligning LLM routing with human preferences**  
+  *Co Tran, Salman Paracha, Adil Hafeez, Shuguang Chen*  
+  2025.  
+  [📄 arXiv:2506.16655](https://arxiv.org/abs/2506.16655)
 
 * **Do NOT think that much for 2+3=? On the overthinking of O1-like LLMs**  
   *Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu*  

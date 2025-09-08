@@ -43,6 +43,12 @@ This repository curates research papers on adaptive thinking in large language m
   *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*  
   2025.  
   [📄 arXiv:2508.21113](https://arxiv.org/abs/2508.21113)
+  
+* **AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning**  
+  *Chenwei Lou, Zewei Sun, Xinnian Liang, Meng Qu, Wei Shen, Wenqi Wang, Yuntao Li, Qingping Yang, Shuangzhi Wu*  
+  2025.  
+  [📄 arXiv:2505.11896](https://arxiv.org/abs/2505.11896)
+
 
 
 
